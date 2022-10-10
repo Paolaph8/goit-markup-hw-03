@@ -1,0 +1,119 @@
+body {
+    color: #212121;
+    font-family: 'Roboto', 'sans-serif';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100%;
+}
+
+.link-1 {
+    color: #2196F3;
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 100%;
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 24px;
+}
+
+.page-links .link:hover,
+.page-links .link:focus {
+    color: #2196F3;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100%;
+
+}
+
+.button:active {
+    color: #2196F3;
+}
+
+.button {
+    cursor: pointer;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+   
+}
+
+.caption {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 100%;
+}
+
+.sub-title {
+    font-family: 'Roboto';
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 100%;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+}
+.description {
+    color: #757575;
+    font-family: 'Roboto';
+    font-size: 16px;
+    line-height: 100%;
+}
+
+.title {
+
+    font-family: 'Roboto';
+    text-align: center;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 100%;
+    width: 696px;
+    height: 120px;
+    left: 448px;
+    top: 280px;
+}
+
+.details {
+    color: #757575;
+    font-family: 'Roboto';
+    font-size: 14px;
+    line-height: 100%;
+}
+
+.headline {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 100%;
+    text-align: center;
+    letter-spacing: 0.03em;
+}
+
+.link {
+    color: #757575;
+}
+
+.gallery1 {
+    display: flex;
+}
+
+.gallery2 {
+    display: flex;
+}
+
+.gallery3 {
+    display: flex;
+}
+
+.gallery4{
+    display: flex;
+}
+
+.paragraphs {
+    column-count: 4;
+}
+
+
